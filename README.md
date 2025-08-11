@@ -2,7 +2,7 @@
 
 A comprehensive Retrieval-Augmented Generation (RAG) system built with FastAPI, featuring document ingestion, conversational chat, and interview booking capabilities.
 
-## 🚀 Features
+## Features
 
 - **Document Ingestion**: Upload and process PDF/TXT files with multiple chunking strategies
 - **Conversational RAG**: Chat interface with session memory and context retrieval
@@ -11,7 +11,7 @@ A comprehensive Retrieval-Augmented Generation (RAG) system built with FastAPI, 
 - **Evaluation Framework**: Comprehensive benchmarking of chunking and search strategies
 - **Scalable Architecture**: Dockerized with PostgreSQL, Milvus, and Redis
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 ├── app/
@@ -34,7 +34,7 @@ A comprehensive Retrieval-Augmented Generation (RAG) system built with FastAPI, 
 └── docker-compose.yml        # Container orchestration
 ```
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 | Component | Technology | Purpose |
 |-----------|------------|---------|
@@ -47,14 +47,14 @@ A comprehensive Retrieval-Augmented Generation (RAG) system built with FastAPI, 
 | **Agents** | Google ADK | Agent orchestration |
 | **Email** | SMTP (MailTrap) | Booking confirmations |
 
-## 📋 Prerequisites
+## Prerequisites
 
 - Docker and Docker Compose
 - Python 3.11+
 - Google API key for Gemini
 - MailTrap account for email testing
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Clone and Setup
 
@@ -96,7 +96,7 @@ docker-compose up -d --build
 - Health Check: http://localhost:8000/health
 - Milvus Admin: http://localhost:9001 (minioadmin/minioadmin)
 
-## 📚 API Usage
+## API Usage
 
 ### Document Ingestion
 
@@ -142,7 +142,7 @@ curl -X POST "http://localhost:8000/chat/" \
   }'
 ```
 
-## 🔧 Configuration
+## Configuration
 
 ### Chunking Strategies
 
@@ -164,7 +164,7 @@ curl -X POST "http://localhost:8000/chat/" \
 | `MAX_FILE_SIZE_MB` | Max upload size | 20 |
 | `EMBEDDING_MODEL` | Sentence transformer model | all-MiniLM-L6-v2 |
 
-## 📊 Evaluation Framework
+## Evaluation Framework
 
 The project includes a comprehensive evaluation framework to compare chunking methods and similarity search algorithms.
 
@@ -253,7 +253,7 @@ To reproduce the evaluation results or test with your own data:
    - JSON files contain detailed metrics
    - `RAG_EVALUATION_REPORT.md` has comprehensive analysis
 
-## 🧪 Development
+## Development
 
 ### Local Development
 
@@ -294,7 +294,7 @@ ruff check app/
 black app/
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 rag-assessment/
@@ -317,7 +317,7 @@ rag-assessment/
 └── README.md               # This file
 ```
 
-## 🔍 Monitoring and Debugging
+## Monitoring and Debugging
 
 ### Health Checks
 
@@ -348,7 +348,7 @@ docker-compose exec postgres psql -U postgres -d ragdb
 docker-compose exec redis redis-cli
 ```
 
-## 🚨 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
