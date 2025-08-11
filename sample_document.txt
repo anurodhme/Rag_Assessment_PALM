@@ -1,0 +1,42 @@
+RAG Assessment Sample Document
+
+This is a sample document for testing the RAG (Retrieval-Augmented Generation) system.
+
+Company Overview:
+Our company specializes in artificial intelligence and machine learning solutions. We provide cutting-edge technology services to businesses worldwide.
+
+Services:
+1. Machine Learning Model Development
+2. Natural Language Processing Solutions
+3. Computer Vision Applications
+4. Data Analytics and Insights
+5. AI Consulting Services
+
+Interview Process:
+We conduct technical interviews for various positions including:
+- Machine Learning Engineers
+- Data Scientists  
+- AI Researchers
+- Software Engineers
+- Product Managers
+
+Interview slots are available Monday through Friday from 9 AM to 5 PM. 
+Candidates can book interviews by providing their name, email, preferred date and time.
+
+Contact Information:
+For interview bookings, please reach out with your details and we will confirm your slot.
+Email confirmations will be sent to candidates upon successful booking.
+
+Technical Requirements:
+- Python programming experience
+- Knowledge of machine learning frameworks
+- Experience with data processing
+- Understanding of AI/ML concepts
+- Problem-solving skills
+
+Benefits:
+- Competitive salary
+- Health insurance
+- Remote work options
+- Professional development opportunities
+- Collaborative work environment
