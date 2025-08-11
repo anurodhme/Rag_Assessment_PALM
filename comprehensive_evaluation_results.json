@@ -1,0 +1,54 @@
+{
+  "chunking": {
+    "late": {
+      "method": "Late Chunking",
+      "accuracy": 0.8166666666666665,
+      "precision": 0.8166666666666665,
+      "recall": 0.5666666666666667,
+      "f1_score": 0.6663333333333333,
+      "latency": 2.86102294921875e-06,
+      "additional_metrics": {
+        "avg_chunks_per_text": 8.333333333333334,
+        "avg_chunk_length": 174.8
+      }
+    },
+    "semantic": {
+      "method": "Semantic Chunking",
+      "accuracy": 0.9499999999999998,
+      "precision": 0.9499999999999998,
+      "recall": 0.7000000000000001,
+      "f1_score": 0.8033333333333333,
+      "latency": 2.2252400716145832e-05,
+      "additional_metrics": {
+        "avg_chunks_per_text": 2.3333333333333335,
+        "avg_chunk_length": 332.42857142857144
+      }
+    }
+  },
+  "similarity_search": {
+    "cosine": {
+      "method": "Cosine Similarity",
+      "accuracy": 0.5112,
+      "precision": 0.6668000000000001,
+      "recall": 0.8667999999999999,
+      "f1_score": 0.7268000000000001,
+      "latency": 1.0347366333007812e-05,
+      "additional_metrics": {
+        "num_queries": 5,
+        "num_documents": 5
+      }
+    },
+    "hybrid": {
+      "method": "Hybrid Search",
+      "accuracy": 0.5334,
+      "precision": 0.7332000000000001,
+      "recall": 0.9,
+      "f1_score": 0.78,
+      "latency": 1.7690658569335938e-05,
+      "additional_metrics": {
+        "num_queries": 5,
+        "num_documents": 5
+      }
+    }
+  }
+}
