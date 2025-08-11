@@ -1,0 +1,3290 @@
+{
+  "late": {
+    "avg_num_chunks": 212.0,
+    "avg_chunk_length": 102.10292868321038,
+    "avg_latency": 0.00023539861043294272,
+    "individual_results": [
+      {
+        "strategy": "late",
+        "num_chunks": 210,
+        "avg_chunk_length": 104.25714285714285,
+        "avg_overlap": 98.65865384615384,
+        "latency": 0.0005850791931152344,
+        "chunks": [
+          [
+            "Artificial intelligence (AI) is intelligence demonstrated by machines, in contrast to the natural intelligence displayed by humans and animals. Leading AI textbooks define the field as the study of \"intelligent agents\": any device that perceives its environment and takes actions that maximize its chance of successfully achieving its goals. Colloquially, the term \"artificial intelligence\" is often used to describe machines that mimic \"cognitive\" functions that humans associate with the human mind, such as \"learning\" and \"problem solving\". As machines become increasingly capable, tasks considered to require \"intelligence\" are often removed from the definition of AI, a phenomenon known as the AI effect. A quip in Tesler's Theorem says \"AI is whatever hasn't been done yet.\" For instance,",
+            0,
+            794
+          ],
+          [
+            "sidered to require \"intelligence\" are often removed from the definition of AI, a phenomenon known as the AI effect. A quip in Tesler's Theorem says \"AI is whatever hasn't been done yet.\" For instance, optical character recognition is frequently excluded from things considered to be AI, having become a routine technology. Modern machine learning techniques are a core part of AI. Machine learning algorithms build a model based on sample data, known as \"training data\", in order to make predictions or decisions without being explicitly programmed to do so. Machine learning algorithms are used in a wide variety of applications, such as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the",
+            594,
+            1389
+          ],
+          [
+            "in a wide variety of applications, such as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1189,
+            1396
+          ],
+          [
+            "ide variety of applications, such as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1196,
+            1396
+          ],
+          [
+            "de variety of applications, such as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1197,
+            1396
+          ],
+          [
+            "e variety of applications, such as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1198,
+            1396
+          ],
+          [
+            "variety of applications, such as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1199,
+            1396
+          ],
+          [
+            "variety of applications, such as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1200,
+            1396
+          ],
+          [
+            "ariety of applications, such as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1201,
+            1396
+          ],
+          [
+            "riety of applications, such as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1202,
+            1396
+          ],
+          [
+            "iety of applications, such as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1203,
+            1396
+          ],
+          [
+            "ety of applications, such as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1204,
+            1396
+          ],
+          [
+            "ty of applications, such as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1205,
+            1396
+          ],
+          [
+            "y of applications, such as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1206,
+            1396
+          ],
+          [
+            "of applications, such as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1207,
+            1396
+          ],
+          [
+            "of applications, such as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1208,
+            1396
+          ],
+          [
+            "f applications, such as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1209,
+            1396
+          ],
+          [
+            "applications, such as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1210,
+            1396
+          ],
+          [
+            "applications, such as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1211,
+            1396
+          ],
+          [
+            "pplications, such as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1212,
+            1396
+          ],
+          [
+            "plications, such as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1213,
+            1396
+          ],
+          [
+            "lications, such as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1214,
+            1396
+          ],
+          [
+            "ications, such as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1215,
+            1396
+          ],
+          [
+            "cations, such as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1216,
+            1396
+          ],
+          [
+            "ations, such as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1217,
+            1396
+          ],
+          [
+            "tions, such as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1218,
+            1396
+          ],
+          [
+            "ions, such as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1219,
+            1396
+          ],
+          [
+            "ons, such as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1220,
+            1396
+          ],
+          [
+            "ns, such as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1221,
+            1396
+          ],
+          [
+            "s, such as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1222,
+            1396
+          ],
+          [
+            ", such as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1223,
+            1396
+          ],
+          [
+            "such as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1224,
+            1396
+          ],
+          [
+            "such as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1225,
+            1396
+          ],
+          [
+            "uch as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1226,
+            1396
+          ],
+          [
+            "ch as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1227,
+            1396
+          ],
+          [
+            "h as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1228,
+            1396
+          ],
+          [
+            "as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1229,
+            1396
+          ],
+          [
+            "as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1230,
+            1396
+          ],
+          [
+            "s in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1231,
+            1396
+          ],
+          [
+            "in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1232,
+            1396
+          ],
+          [
+            "in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1233,
+            1396
+          ],
+          [
+            "n medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1234,
+            1396
+          ],
+          [
+            "medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1235,
+            1396
+          ],
+          [
+            "medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1236,
+            1396
+          ],
+          [
+            "edicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1237,
+            1396
+          ],
+          [
+            "dicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1238,
+            1396
+          ],
+          [
+            "icine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1239,
+            1396
+          ],
+          [
+            "cine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1240,
+            1396
+          ],
+          [
+            "ine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1241,
+            1396
+          ],
+          [
+            "ne, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1242,
+            1396
+          ],
+          [
+            "e, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1243,
+            1396
+          ],
+          [
+            ", email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1244,
+            1396
+          ],
+          [
+            "email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1245,
+            1396
+          ],
+          [
+            "email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1246,
+            1396
+          ],
+          [
+            "mail filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1247,
+            1396
+          ],
+          [
+            "ail filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1248,
+            1396
+          ],
+          [
+            "il filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1249,
+            1396
+          ],
+          [
+            "l filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1250,
+            1396
+          ],
+          [
+            "filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1251,
+            1396
+          ],
+          [
+            "filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1252,
+            1396
+          ],
+          [
+            "iltering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1253,
+            1396
+          ],
+          [
+            "ltering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1254,
+            1396
+          ],
+          [
+            "tering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1255,
+            1396
+          ],
+          [
+            "ering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1256,
+            1396
+          ],
+          [
+            "ring, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1257,
+            1396
+          ],
+          [
+            "ing, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1258,
+            1396
+          ],
+          [
+            "ng, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1259,
+            1396
+          ],
+          [
+            "g, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1260,
+            1396
+          ],
+          [
+            ", speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1261,
+            1396
+          ],
+          [
+            "speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1262,
+            1396
+          ],
+          [
+            "speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1263,
+            1396
+          ],
+          [
+            "peech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1264,
+            1396
+          ],
+          [
+            "eech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1265,
+            1396
+          ],
+          [
+            "ech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1266,
+            1396
+          ],
+          [
+            "ch recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1267,
+            1396
+          ],
+          [
+            "h recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1268,
+            1396
+          ],
+          [
+            "recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1269,
+            1396
+          ],
+          [
+            "recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1270,
+            1396
+          ],
+          [
+            "ecognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1271,
+            1396
+          ],
+          [
+            "cognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1272,
+            1396
+          ],
+          [
+            "ognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1273,
+            1396
+          ],
+          [
+            "gnition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1274,
+            1396
+          ],
+          [
+            "nition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1275,
+            1396
+          ],
+          [
+            "ition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1276,
+            1396
+          ],
+          [
+            "tion, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1277,
+            1396
+          ],
+          [
+            "ion, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1278,
+            1396
+          ],
+          [
+            "on, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1279,
+            1396
+          ],
+          [
+            "n, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1280,
+            1396
+          ],
+          [
+            ", and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1281,
+            1396
+          ],
+          [
+            "and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1282,
+            1396
+          ],
+          [
+            "and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1283,
+            1396
+          ],
+          [
+            "nd computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1284,
+            1396
+          ],
+          [
+            "d computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1285,
+            1396
+          ],
+          [
+            "computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1286,
+            1396
+          ],
+          [
+            "computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1287,
+            1396
+          ],
+          [
+            "omputer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1288,
+            1396
+          ],
+          [
+            "mputer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1289,
+            1396
+          ],
+          [
+            "puter vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1290,
+            1396
+          ],
+          [
+            "uter vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1291,
+            1396
+          ],
+          [
+            "ter vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1292,
+            1396
+          ],
+          [
+            "er vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1293,
+            1396
+          ],
+          [
+            "r vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1294,
+            1396
+          ],
+          [
+            "vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1295,
+            1396
+          ],
+          [
+            "vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1296,
+            1396
+          ],
+          [
+            "ision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1297,
+            1396
+          ],
+          [
+            "sion, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1298,
+            1396
+          ],
+          [
+            "ion, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1299,
+            1396
+          ],
+          [
+            "on, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1300,
+            1396
+          ],
+          [
+            "n, where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1301,
+            1396
+          ],
+          [
+            ", where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1302,
+            1396
+          ],
+          [
+            "where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1303,
+            1396
+          ],
+          [
+            "where it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1304,
+            1396
+          ],
+          [
+            "here it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1305,
+            1396
+          ],
+          [
+            "ere it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1306,
+            1396
+          ],
+          [
+            "re it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1307,
+            1396
+          ],
+          [
+            "e it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1308,
+            1396
+          ],
+          [
+            "it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1309,
+            1396
+          ],
+          [
+            "it is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1310,
+            1396
+          ],
+          [
+            "t is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1311,
+            1396
+          ],
+          [
+            "is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1312,
+            1396
+          ],
+          [
+            "is difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1313,
+            1396
+          ],
+          [
+            "s difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1314,
+            1396
+          ],
+          [
+            "difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1315,
+            1396
+          ],
+          [
+            "difficult or unfeasible to develop conventional algorithms to perform the needed",
+            1316,
+            1396
+          ],
+          [
+            "ifficult or unfeasible to develop conventional algorithms to perform the needed",
+            1317,
+            1396
+          ],
+          [
+            "fficult or unfeasible to develop conventional algorithms to perform the needed",
+            1318,
+            1396
+          ],
+          [
+            "ficult or unfeasible to develop conventional algorithms to perform the needed",
+            1319,
+            1396
+          ],
+          [
+            "icult or unfeasible to develop conventional algorithms to perform the needed",
+            1320,
+            1396
+          ],
+          [
+            "cult or unfeasible to develop conventional algorithms to perform the needed",
+            1321,
+            1396
+          ],
+          [
+            "ult or unfeasible to develop conventional algorithms to perform the needed",
+            1322,
+            1396
+          ],
+          [
+            "lt or unfeasible to develop conventional algorithms to perform the needed",
+            1323,
+            1396
+          ],
+          [
+            "t or unfeasible to develop conventional algorithms to perform the needed",
+            1324,
+            1396
+          ],
+          [
+            "or unfeasible to develop conventional algorithms to perform the needed",
+            1325,
+            1396
+          ],
+          [
+            "or unfeasible to develop conventional algorithms to perform the needed",
+            1326,
+            1396
+          ],
+          [
+            "r unfeasible to develop conventional algorithms to perform the needed",
+            1327,
+            1396
+          ],
+          [
+            "unfeasible to develop conventional algorithms to perform the needed",
+            1328,
+            1396
+          ],
+          [
+            "unfeasible to develop conventional algorithms to perform the needed",
+            1329,
+            1396
+          ],
+          [
+            "nfeasible to develop conventional algorithms to perform the needed",
+            1330,
+            1396
+          ],
+          [
+            "feasible to develop conventional algorithms to perform the needed",
+            1331,
+            1396
+          ],
+          [
+            "easible to develop conventional algorithms to perform the needed",
+            1332,
+            1396
+          ],
+          [
+            "asible to develop conventional algorithms to perform the needed",
+            1333,
+            1396
+          ],
+          [
+            "sible to develop conventional algorithms to perform the needed",
+            1334,
+            1396
+          ],
+          [
+            "ible to develop conventional algorithms to perform the needed",
+            1335,
+            1396
+          ],
+          [
+            "ble to develop conventional algorithms to perform the needed",
+            1336,
+            1396
+          ],
+          [
+            "le to develop conventional algorithms to perform the needed",
+            1337,
+            1396
+          ],
+          [
+            "e to develop conventional algorithms to perform the needed",
+            1338,
+            1396
+          ],
+          [
+            "to develop conventional algorithms to perform the needed",
+            1339,
+            1396
+          ],
+          [
+            "to develop conventional algorithms to perform the needed",
+            1340,
+            1396
+          ],
+          [
+            "o develop conventional algorithms to perform the needed",
+            1341,
+            1396
+          ],
+          [
+            "develop conventional algorithms to perform the needed",
+            1342,
+            1396
+          ],
+          [
+            "develop conventional algorithms to perform the needed",
+            1343,
+            1396
+          ],
+          [
+            "evelop conventional algorithms to perform the needed",
+            1344,
+            1396
+          ],
+          [
+            "velop conventional algorithms to perform the needed",
+            1345,
+            1396
+          ],
+          [
+            "elop conventional algorithms to perform the needed",
+            1346,
+            1396
+          ],
+          [
+            "lop conventional algorithms to perform the needed",
+            1347,
+            1396
+          ],
+          [
+            "op conventional algorithms to perform the needed",
+            1348,
+            1396
+          ],
+          [
+            "p conventional algorithms to perform the needed",
+            1349,
+            1396
+          ],
+          [
+            "conventional algorithms to perform the needed",
+            1350,
+            1396
+          ],
+          [
+            "conventional algorithms to perform the needed",
+            1351,
+            1396
+          ],
+          [
+            "onventional algorithms to perform the needed",
+            1352,
+            1396
+          ],
+          [
+            "nventional algorithms to perform the needed",
+            1353,
+            1396
+          ],
+          [
+            "ventional algorithms to perform the needed",
+            1354,
+            1396
+          ],
+          [
+            "entional algorithms to perform the needed",
+            1355,
+            1396
+          ],
+          [
+            "ntional algorithms to perform the needed",
+            1356,
+            1396
+          ],
+          [
+            "tional algorithms to perform the needed",
+            1357,
+            1396
+          ],
+          [
+            "ional algorithms to perform the needed",
+            1358,
+            1396
+          ],
+          [
+            "onal algorithms to perform the needed",
+            1359,
+            1396
+          ],
+          [
+            "nal algorithms to perform the needed",
+            1360,
+            1396
+          ],
+          [
+            "al algorithms to perform the needed",
+            1361,
+            1396
+          ],
+          [
+            "l algorithms to perform the needed",
+            1362,
+            1396
+          ],
+          [
+            "algorithms to perform the needed",
+            1363,
+            1396
+          ],
+          [
+            "algorithms to perform the needed",
+            1364,
+            1396
+          ],
+          [
+            "lgorithms to perform the needed",
+            1365,
+            1396
+          ],
+          [
+            "gorithms to perform the needed",
+            1366,
+            1396
+          ],
+          [
+            "orithms to perform the needed",
+            1367,
+            1396
+          ],
+          [
+            "rithms to perform the needed",
+            1368,
+            1396
+          ],
+          [
+            "ithms to perform the needed",
+            1369,
+            1396
+          ],
+          [
+            "thms to perform the needed",
+            1370,
+            1396
+          ],
+          [
+            "hms to perform the needed",
+            1371,
+            1396
+          ],
+          [
+            "ms to perform the needed",
+            1372,
+            1396
+          ],
+          [
+            "s to perform the needed",
+            1373,
+            1396
+          ],
+          [
+            "to perform the needed",
+            1374,
+            1396
+          ],
+          [
+            "to perform the needed",
+            1375,
+            1396
+          ],
+          [
+            "o perform the needed",
+            1376,
+            1396
+          ],
+          [
+            "perform the needed",
+            1377,
+            1396
+          ],
+          [
+            "perform the needed",
+            1378,
+            1396
+          ],
+          [
+            "erform the needed",
+            1379,
+            1396
+          ],
+          [
+            "rform the needed",
+            1380,
+            1396
+          ],
+          [
+            "form the needed",
+            1381,
+            1396
+          ],
+          [
+            "orm the needed",
+            1382,
+            1396
+          ],
+          [
+            "rm the needed",
+            1383,
+            1396
+          ],
+          [
+            "m the needed",
+            1384,
+            1396
+          ],
+          [
+            "the needed",
+            1385,
+            1396
+          ],
+          [
+            "the needed",
+            1386,
+            1396
+          ],
+          [
+            "he needed",
+            1387,
+            1396
+          ],
+          [
+            "e needed",
+            1388,
+            1396
+          ],
+          [
+            "needed",
+            1389,
+            1396
+          ],
+          [
+            "needed",
+            1390,
+            1396
+          ],
+          [
+            "eeded",
+            1391,
+            1396
+          ],
+          [
+            "eded",
+            1392,
+            1396
+          ],
+          [
+            "ded",
+            1393,
+            1396
+          ],
+          [
+            "ed",
+            1394,
+            1396
+          ],
+          [
+            "d",
+            1395,
+            1396
+          ],
+          [
+            "tasks.",
+            1396,
+            1403
+          ],
+          [
+            "tasks.",
+            1397,
+            1403
+          ],
+          [
+            "asks.",
+            1398,
+            1403
+          ],
+          [
+            "sks.",
+            1399,
+            1403
+          ],
+          [
+            "ks.",
+            1400,
+            1403
+          ],
+          [
+            "s.",
+            1401,
+            1403
+          ],
+          [
+            ".",
+            1402,
+            1403
+          ]
+        ]
+      },
+      {
+        "strategy": "late",
+        "num_chunks": 213,
+        "avg_chunk_length": 100.3755868544601,
+        "avg_overlap": 96.4691943127962,
+        "latency": 6.198883056640625e-05,
+        "chunks": [
+          [
+            "Machine learning (ML) is the study of computer algorithms that improve automatically through experience. It is seen as a subset of artificial intelligence. Machine learning algorithms build a mathematical model based on sample data, known as \"training data\", in order to make predictions or decisions without being explicitly programmed to do so. Machine learning algorithms are used in a wide variety of applications, such as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed tasks. Machine learning is closely related to computational statistics, which focuses on making predictions using computers. The study of mathematical optimization delivers methods, theory and application",
+            0,
+            795
+          ],
+          [
+            "s. Machine learning is closely related to computational statistics, which focuses on making predictions using computers. The study of mathematical optimization delivers methods, theory and application domains to the field of machine learning. Data mining is a related field of study, focusing on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            595,
+            1043
+          ],
+          [
+            "mining is a related field of study, focusing on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            843,
+            1043
+          ],
+          [
+            "ining is a related field of study, focusing on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            844,
+            1043
+          ],
+          [
+            "ning is a related field of study, focusing on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            845,
+            1043
+          ],
+          [
+            "ing is a related field of study, focusing on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            846,
+            1043
+          ],
+          [
+            "ng is a related field of study, focusing on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            847,
+            1043
+          ],
+          [
+            "g is a related field of study, focusing on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            848,
+            1043
+          ],
+          [
+            "is a related field of study, focusing on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            849,
+            1043
+          ],
+          [
+            "is a related field of study, focusing on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            850,
+            1043
+          ],
+          [
+            "s a related field of study, focusing on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            851,
+            1043
+          ],
+          [
+            "a related field of study, focusing on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            852,
+            1043
+          ],
+          [
+            "a related field of study, focusing on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            853,
+            1043
+          ],
+          [
+            "related field of study, focusing on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            854,
+            1043
+          ],
+          [
+            "related field of study, focusing on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            855,
+            1043
+          ],
+          [
+            "elated field of study, focusing on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            856,
+            1043
+          ],
+          [
+            "lated field of study, focusing on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            857,
+            1043
+          ],
+          [
+            "ated field of study, focusing on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            858,
+            1043
+          ],
+          [
+            "ted field of study, focusing on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            859,
+            1043
+          ],
+          [
+            "ed field of study, focusing on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            860,
+            1043
+          ],
+          [
+            "d field of study, focusing on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            861,
+            1043
+          ],
+          [
+            "field of study, focusing on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            862,
+            1043
+          ],
+          [
+            "field of study, focusing on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            863,
+            1043
+          ],
+          [
+            "ield of study, focusing on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            864,
+            1043
+          ],
+          [
+            "eld of study, focusing on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            865,
+            1043
+          ],
+          [
+            "ld of study, focusing on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            866,
+            1043
+          ],
+          [
+            "d of study, focusing on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            867,
+            1043
+          ],
+          [
+            "of study, focusing on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            868,
+            1043
+          ],
+          [
+            "of study, focusing on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            869,
+            1043
+          ],
+          [
+            "f study, focusing on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            870,
+            1043
+          ],
+          [
+            "study, focusing on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            871,
+            1043
+          ],
+          [
+            "study, focusing on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            872,
+            1043
+          ],
+          [
+            "tudy, focusing on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            873,
+            1043
+          ],
+          [
+            "udy, focusing on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            874,
+            1043
+          ],
+          [
+            "dy, focusing on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            875,
+            1043
+          ],
+          [
+            "y, focusing on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            876,
+            1043
+          ],
+          [
+            ", focusing on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            877,
+            1043
+          ],
+          [
+            "focusing on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            878,
+            1043
+          ],
+          [
+            "focusing on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            879,
+            1043
+          ],
+          [
+            "ocusing on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            880,
+            1043
+          ],
+          [
+            "cusing on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            881,
+            1043
+          ],
+          [
+            "using on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            882,
+            1043
+          ],
+          [
+            "sing on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            883,
+            1043
+          ],
+          [
+            "ing on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            884,
+            1043
+          ],
+          [
+            "ng on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            885,
+            1043
+          ],
+          [
+            "g on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            886,
+            1043
+          ],
+          [
+            "on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            887,
+            1043
+          ],
+          [
+            "on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            888,
+            1043
+          ],
+          [
+            "n exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            889,
+            1043
+          ],
+          [
+            "exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            890,
+            1043
+          ],
+          [
+            "exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            891,
+            1043
+          ],
+          [
+            "xploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            892,
+            1043
+          ],
+          [
+            "ploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            893,
+            1043
+          ],
+          [
+            "loratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            894,
+            1043
+          ],
+          [
+            "oratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            895,
+            1043
+          ],
+          [
+            "ratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            896,
+            1043
+          ],
+          [
+            "atory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            897,
+            1043
+          ],
+          [
+            "tory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            898,
+            1043
+          ],
+          [
+            "ory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            899,
+            1043
+          ],
+          [
+            "ry data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            900,
+            1043
+          ],
+          [
+            "y data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            901,
+            1043
+          ],
+          [
+            "data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            902,
+            1043
+          ],
+          [
+            "data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            903,
+            1043
+          ],
+          [
+            "ata analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            904,
+            1043
+          ],
+          [
+            "ta analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            905,
+            1043
+          ],
+          [
+            "a analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            906,
+            1043
+          ],
+          [
+            "analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            907,
+            1043
+          ],
+          [
+            "analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            908,
+            1043
+          ],
+          [
+            "nalysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            909,
+            1043
+          ],
+          [
+            "alysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            910,
+            1043
+          ],
+          [
+            "lysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            911,
+            1043
+          ],
+          [
+            "ysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            912,
+            1043
+          ],
+          [
+            "sis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            913,
+            1043
+          ],
+          [
+            "is through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            914,
+            1043
+          ],
+          [
+            "s through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            915,
+            1043
+          ],
+          [
+            "through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            916,
+            1043
+          ],
+          [
+            "through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            917,
+            1043
+          ],
+          [
+            "hrough unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            918,
+            1043
+          ],
+          [
+            "rough unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            919,
+            1043
+          ],
+          [
+            "ough unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            920,
+            1043
+          ],
+          [
+            "ugh unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            921,
+            1043
+          ],
+          [
+            "gh unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            922,
+            1043
+          ],
+          [
+            "h unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            923,
+            1043
+          ],
+          [
+            "unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            924,
+            1043
+          ],
+          [
+            "unsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            925,
+            1043
+          ],
+          [
+            "nsupervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            926,
+            1043
+          ],
+          [
+            "supervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            927,
+            1043
+          ],
+          [
+            "upervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            928,
+            1043
+          ],
+          [
+            "pervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            929,
+            1043
+          ],
+          [
+            "ervised learning. In its application across business problems, machine learning is also referred to as predictive",
+            930,
+            1043
+          ],
+          [
+            "rvised learning. In its application across business problems, machine learning is also referred to as predictive",
+            931,
+            1043
+          ],
+          [
+            "vised learning. In its application across business problems, machine learning is also referred to as predictive",
+            932,
+            1043
+          ],
+          [
+            "ised learning. In its application across business problems, machine learning is also referred to as predictive",
+            933,
+            1043
+          ],
+          [
+            "sed learning. In its application across business problems, machine learning is also referred to as predictive",
+            934,
+            1043
+          ],
+          [
+            "ed learning. In its application across business problems, machine learning is also referred to as predictive",
+            935,
+            1043
+          ],
+          [
+            "d learning. In its application across business problems, machine learning is also referred to as predictive",
+            936,
+            1043
+          ],
+          [
+            "learning. In its application across business problems, machine learning is also referred to as predictive",
+            937,
+            1043
+          ],
+          [
+            "learning. In its application across business problems, machine learning is also referred to as predictive",
+            938,
+            1043
+          ],
+          [
+            "earning. In its application across business problems, machine learning is also referred to as predictive",
+            939,
+            1043
+          ],
+          [
+            "arning. In its application across business problems, machine learning is also referred to as predictive",
+            940,
+            1043
+          ],
+          [
+            "rning. In its application across business problems, machine learning is also referred to as predictive",
+            941,
+            1043
+          ],
+          [
+            "ning. In its application across business problems, machine learning is also referred to as predictive",
+            942,
+            1043
+          ],
+          [
+            "ing. In its application across business problems, machine learning is also referred to as predictive",
+            943,
+            1043
+          ],
+          [
+            "ng. In its application across business problems, machine learning is also referred to as predictive",
+            944,
+            1043
+          ],
+          [
+            "g. In its application across business problems, machine learning is also referred to as predictive",
+            945,
+            1043
+          ],
+          [
+            ". In its application across business problems, machine learning is also referred to as predictive",
+            946,
+            1043
+          ],
+          [
+            "In its application across business problems, machine learning is also referred to as predictive",
+            947,
+            1043
+          ],
+          [
+            "In its application across business problems, machine learning is also referred to as predictive",
+            948,
+            1043
+          ],
+          [
+            "n its application across business problems, machine learning is also referred to as predictive",
+            949,
+            1043
+          ],
+          [
+            "its application across business problems, machine learning is also referred to as predictive",
+            950,
+            1043
+          ],
+          [
+            "its application across business problems, machine learning is also referred to as predictive",
+            951,
+            1043
+          ],
+          [
+            "ts application across business problems, machine learning is also referred to as predictive",
+            952,
+            1043
+          ],
+          [
+            "s application across business problems, machine learning is also referred to as predictive",
+            953,
+            1043
+          ],
+          [
+            "application across business problems, machine learning is also referred to as predictive",
+            954,
+            1043
+          ],
+          [
+            "application across business problems, machine learning is also referred to as predictive",
+            955,
+            1043
+          ],
+          [
+            "pplication across business problems, machine learning is also referred to as predictive",
+            956,
+            1043
+          ],
+          [
+            "plication across business problems, machine learning is also referred to as predictive",
+            957,
+            1043
+          ],
+          [
+            "lication across business problems, machine learning is also referred to as predictive",
+            958,
+            1043
+          ],
+          [
+            "ication across business problems, machine learning is also referred to as predictive",
+            959,
+            1043
+          ],
+          [
+            "cation across business problems, machine learning is also referred to as predictive",
+            960,
+            1043
+          ],
+          [
+            "ation across business problems, machine learning is also referred to as predictive",
+            961,
+            1043
+          ],
+          [
+            "tion across business problems, machine learning is also referred to as predictive",
+            962,
+            1043
+          ],
+          [
+            "ion across business problems, machine learning is also referred to as predictive",
+            963,
+            1043
+          ],
+          [
+            "on across business problems, machine learning is also referred to as predictive",
+            964,
+            1043
+          ],
+          [
+            "n across business problems, machine learning is also referred to as predictive",
+            965,
+            1043
+          ],
+          [
+            "across business problems, machine learning is also referred to as predictive",
+            966,
+            1043
+          ],
+          [
+            "across business problems, machine learning is also referred to as predictive",
+            967,
+            1043
+          ],
+          [
+            "cross business problems, machine learning is also referred to as predictive",
+            968,
+            1043
+          ],
+          [
+            "ross business problems, machine learning is also referred to as predictive",
+            969,
+            1043
+          ],
+          [
+            "oss business problems, machine learning is also referred to as predictive",
+            970,
+            1043
+          ],
+          [
+            "ss business problems, machine learning is also referred to as predictive",
+            971,
+            1043
+          ],
+          [
+            "s business problems, machine learning is also referred to as predictive",
+            972,
+            1043
+          ],
+          [
+            "business problems, machine learning is also referred to as predictive",
+            973,
+            1043
+          ],
+          [
+            "business problems, machine learning is also referred to as predictive",
+            974,
+            1043
+          ],
+          [
+            "usiness problems, machine learning is also referred to as predictive",
+            975,
+            1043
+          ],
+          [
+            "siness problems, machine learning is also referred to as predictive",
+            976,
+            1043
+          ],
+          [
+            "iness problems, machine learning is also referred to as predictive",
+            977,
+            1043
+          ],
+          [
+            "ness problems, machine learning is also referred to as predictive",
+            978,
+            1043
+          ],
+          [
+            "ess problems, machine learning is also referred to as predictive",
+            979,
+            1043
+          ],
+          [
+            "ss problems, machine learning is also referred to as predictive",
+            980,
+            1043
+          ],
+          [
+            "s problems, machine learning is also referred to as predictive",
+            981,
+            1043
+          ],
+          [
+            "problems, machine learning is also referred to as predictive",
+            982,
+            1043
+          ],
+          [
+            "problems, machine learning is also referred to as predictive",
+            983,
+            1043
+          ],
+          [
+            "roblems, machine learning is also referred to as predictive",
+            984,
+            1043
+          ],
+          [
+            "oblems, machine learning is also referred to as predictive",
+            985,
+            1043
+          ],
+          [
+            "blems, machine learning is also referred to as predictive",
+            986,
+            1043
+          ],
+          [
+            "lems, machine learning is also referred to as predictive",
+            987,
+            1043
+          ],
+          [
+            "ems, machine learning is also referred to as predictive",
+            988,
+            1043
+          ],
+          [
+            "ms, machine learning is also referred to as predictive",
+            989,
+            1043
+          ],
+          [
+            "s, machine learning is also referred to as predictive",
+            990,
+            1043
+          ],
+          [
+            ", machine learning is also referred to as predictive",
+            991,
+            1043
+          ],
+          [
+            "machine learning is also referred to as predictive",
+            992,
+            1043
+          ],
+          [
+            "machine learning is also referred to as predictive",
+            993,
+            1043
+          ],
+          [
+            "achine learning is also referred to as predictive",
+            994,
+            1043
+          ],
+          [
+            "chine learning is also referred to as predictive",
+            995,
+            1043
+          ],
+          [
+            "hine learning is also referred to as predictive",
+            996,
+            1043
+          ],
+          [
+            "ine learning is also referred to as predictive",
+            997,
+            1043
+          ],
+          [
+            "ne learning is also referred to as predictive",
+            998,
+            1043
+          ],
+          [
+            "e learning is also referred to as predictive",
+            999,
+            1043
+          ],
+          [
+            "learning is also referred to as predictive",
+            1000,
+            1043
+          ],
+          [
+            "learning is also referred to as predictive",
+            1001,
+            1043
+          ],
+          [
+            "earning is also referred to as predictive",
+            1002,
+            1043
+          ],
+          [
+            "arning is also referred to as predictive",
+            1003,
+            1043
+          ],
+          [
+            "rning is also referred to as predictive",
+            1004,
+            1043
+          ],
+          [
+            "ning is also referred to as predictive",
+            1005,
+            1043
+          ],
+          [
+            "ing is also referred to as predictive",
+            1006,
+            1043
+          ],
+          [
+            "ng is also referred to as predictive",
+            1007,
+            1043
+          ],
+          [
+            "g is also referred to as predictive",
+            1008,
+            1043
+          ],
+          [
+            "is also referred to as predictive",
+            1009,
+            1043
+          ],
+          [
+            "is also referred to as predictive",
+            1010,
+            1043
+          ],
+          [
+            "s also referred to as predictive",
+            1011,
+            1043
+          ],
+          [
+            "also referred to as predictive",
+            1012,
+            1043
+          ],
+          [
+            "also referred to as predictive",
+            1013,
+            1043
+          ],
+          [
+            "lso referred to as predictive",
+            1014,
+            1043
+          ],
+          [
+            "so referred to as predictive",
+            1015,
+            1043
+          ],
+          [
+            "o referred to as predictive",
+            1016,
+            1043
+          ],
+          [
+            "referred to as predictive",
+            1017,
+            1043
+          ],
+          [
+            "referred to as predictive",
+            1018,
+            1043
+          ],
+          [
+            "eferred to as predictive",
+            1019,
+            1043
+          ],
+          [
+            "ferred to as predictive",
+            1020,
+            1043
+          ],
+          [
+            "erred to as predictive",
+            1021,
+            1043
+          ],
+          [
+            "rred to as predictive",
+            1022,
+            1043
+          ],
+          [
+            "red to as predictive",
+            1023,
+            1043
+          ],
+          [
+            "ed to as predictive",
+            1024,
+            1043
+          ],
+          [
+            "d to as predictive",
+            1025,
+            1043
+          ],
+          [
+            "to as predictive",
+            1026,
+            1043
+          ],
+          [
+            "to as predictive",
+            1027,
+            1043
+          ],
+          [
+            "o as predictive",
+            1028,
+            1043
+          ],
+          [
+            "as predictive",
+            1029,
+            1043
+          ],
+          [
+            "as predictive",
+            1030,
+            1043
+          ],
+          [
+            "s predictive",
+            1031,
+            1043
+          ],
+          [
+            "predictive",
+            1032,
+            1043
+          ],
+          [
+            "predictive",
+            1033,
+            1043
+          ],
+          [
+            "redictive",
+            1034,
+            1043
+          ],
+          [
+            "edictive",
+            1035,
+            1043
+          ],
+          [
+            "dictive",
+            1036,
+            1043
+          ],
+          [
+            "ictive",
+            1037,
+            1043
+          ],
+          [
+            "ctive",
+            1038,
+            1043
+          ],
+          [
+            "tive",
+            1039,
+            1043
+          ],
+          [
+            "ive",
+            1040,
+            1043
+          ],
+          [
+            "ve",
+            1041,
+            1043
+          ],
+          [
+            "e",
+            1042,
+            1043
+          ],
+          [
+            "analytics.",
+            1043,
+            1054
+          ],
+          [
+            "analytics.",
+            1044,
+            1054
+          ],
+          [
+            "nalytics.",
+            1045,
+            1054
+          ],
+          [
+            "alytics.",
+            1046,
+            1054
+          ],
+          [
+            "lytics.",
+            1047,
+            1054
+          ],
+          [
+            "ytics.",
+            1048,
+            1054
+          ],
+          [
+            "tics.",
+            1049,
+            1054
+          ],
+          [
+            "ics.",
+            1050,
+            1054
+          ],
+          [
+            "cs.",
+            1051,
+            1054
+          ],
+          [
+            "s.",
+            1052,
+            1054
+          ],
+          [
+            ".",
+            1053,
+            1054
+          ]
+        ]
+      },
+      {
+        "strategy": "late",
+        "num_chunks": 213,
+        "avg_chunk_length": 101.67605633802818,
+        "avg_overlap": 96.4691943127962,
+        "latency": 5.91278076171875e-05,
+        "chunks": [
+          [
+            "Deep learning is part of a broader family of machine learning methods based on artificial neural networks with representation learning. Learning can be supervised, semi-supervised or unsupervised. Deep learning architectures such as deep neural networks, deep belief networks, recurrent neural networks and convolutional neural networks have been applied to fields including computer vision, speech recognition, natural language processing, audio recognition, social network filtering, machine translation, bioinformatics, drug design, medical image analysis, material inspection and board game programs, where they have produced results comparable to and in some cases surpassing human expert performance. Artificial neural networks (ANNs) were inspired by information processing and distributed",
+            0,
+            796
+          ],
+          [
+            "rograms, where they have produced results comparable to and in some cases surpassing human expert performance. Artificial neural networks (ANNs) were inspired by information processing and distributed communication nodes in biological systems. ANNs have various differences from biological brains. Specifically, neural networks tend to be static and symbolic, while the biological brain of most living organisms is dynamic (plastic) and analogue. The adjective \"deep\" in deep learning refers to the use of multiple layers in the network. Early work showed that a linear perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            596,
+            1320
+          ],
+          [
+            "the network. Early work showed that a linear perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1120,
+            1320
+          ],
+          [
+            "the network. Early work showed that a linear perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1121,
+            1320
+          ],
+          [
+            "he network. Early work showed that a linear perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1122,
+            1320
+          ],
+          [
+            "e network. Early work showed that a linear perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1123,
+            1320
+          ],
+          [
+            "network. Early work showed that a linear perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1124,
+            1320
+          ],
+          [
+            "network. Early work showed that a linear perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1125,
+            1320
+          ],
+          [
+            "etwork. Early work showed that a linear perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1126,
+            1320
+          ],
+          [
+            "twork. Early work showed that a linear perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1127,
+            1320
+          ],
+          [
+            "work. Early work showed that a linear perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1128,
+            1320
+          ],
+          [
+            "ork. Early work showed that a linear perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1129,
+            1320
+          ],
+          [
+            "rk. Early work showed that a linear perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1130,
+            1320
+          ],
+          [
+            "k. Early work showed that a linear perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1131,
+            1320
+          ],
+          [
+            ". Early work showed that a linear perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1132,
+            1320
+          ],
+          [
+            "Early work showed that a linear perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1133,
+            1320
+          ],
+          [
+            "Early work showed that a linear perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1134,
+            1320
+          ],
+          [
+            "arly work showed that a linear perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1135,
+            1320
+          ],
+          [
+            "rly work showed that a linear perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1136,
+            1320
+          ],
+          [
+            "ly work showed that a linear perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1137,
+            1320
+          ],
+          [
+            "y work showed that a linear perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1138,
+            1320
+          ],
+          [
+            "work showed that a linear perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1139,
+            1320
+          ],
+          [
+            "work showed that a linear perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1140,
+            1320
+          ],
+          [
+            "ork showed that a linear perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1141,
+            1320
+          ],
+          [
+            "rk showed that a linear perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1142,
+            1320
+          ],
+          [
+            "k showed that a linear perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1143,
+            1320
+          ],
+          [
+            "showed that a linear perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1144,
+            1320
+          ],
+          [
+            "showed that a linear perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1145,
+            1320
+          ],
+          [
+            "howed that a linear perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1146,
+            1320
+          ],
+          [
+            "owed that a linear perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1147,
+            1320
+          ],
+          [
+            "wed that a linear perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1148,
+            1320
+          ],
+          [
+            "ed that a linear perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1149,
+            1320
+          ],
+          [
+            "d that a linear perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1150,
+            1320
+          ],
+          [
+            "that a linear perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1151,
+            1320
+          ],
+          [
+            "that a linear perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1152,
+            1320
+          ],
+          [
+            "hat a linear perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1153,
+            1320
+          ],
+          [
+            "at a linear perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1154,
+            1320
+          ],
+          [
+            "t a linear perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1155,
+            1320
+          ],
+          [
+            "a linear perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1156,
+            1320
+          ],
+          [
+            "a linear perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1157,
+            1320
+          ],
+          [
+            "linear perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1158,
+            1320
+          ],
+          [
+            "linear perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1159,
+            1320
+          ],
+          [
+            "inear perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1160,
+            1320
+          ],
+          [
+            "near perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1161,
+            1320
+          ],
+          [
+            "ear perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1162,
+            1320
+          ],
+          [
+            "ar perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1163,
+            1320
+          ],
+          [
+            "r perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1164,
+            1320
+          ],
+          [
+            "perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1165,
+            1320
+          ],
+          [
+            "perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1166,
+            1320
+          ],
+          [
+            "erceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1167,
+            1320
+          ],
+          [
+            "rceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1168,
+            1320
+          ],
+          [
+            "ceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1169,
+            1320
+          ],
+          [
+            "eptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1170,
+            1320
+          ],
+          [
+            "ptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1171,
+            1320
+          ],
+          [
+            "tron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1172,
+            1320
+          ],
+          [
+            "ron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1173,
+            1320
+          ],
+          [
+            "on cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1174,
+            1320
+          ],
+          [
+            "n cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1175,
+            1320
+          ],
+          [
+            "cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1176,
+            1320
+          ],
+          [
+            "cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1177,
+            1320
+          ],
+          [
+            "annot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1178,
+            1320
+          ],
+          [
+            "nnot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1179,
+            1320
+          ],
+          [
+            "not be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1180,
+            1320
+          ],
+          [
+            "ot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1181,
+            1320
+          ],
+          [
+            "t be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1182,
+            1320
+          ],
+          [
+            "be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1183,
+            1320
+          ],
+          [
+            "be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1184,
+            1320
+          ],
+          [
+            "e a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1185,
+            1320
+          ],
+          [
+            "a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1186,
+            1320
+          ],
+          [
+            "a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1187,
+            1320
+          ],
+          [
+            "universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1188,
+            1320
+          ],
+          [
+            "universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1189,
+            1320
+          ],
+          [
+            "niversal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1190,
+            1320
+          ],
+          [
+            "iversal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1191,
+            1320
+          ],
+          [
+            "versal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1192,
+            1320
+          ],
+          [
+            "ersal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1193,
+            1320
+          ],
+          [
+            "rsal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1194,
+            1320
+          ],
+          [
+            "sal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1195,
+            1320
+          ],
+          [
+            "al classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1196,
+            1320
+          ],
+          [
+            "l classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1197,
+            1320
+          ],
+          [
+            "classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1198,
+            1320
+          ],
+          [
+            "classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1199,
+            1320
+          ],
+          [
+            "lassifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1200,
+            1320
+          ],
+          [
+            "assifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1201,
+            1320
+          ],
+          [
+            "ssifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1202,
+            1320
+          ],
+          [
+            "sifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1203,
+            1320
+          ],
+          [
+            "ifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1204,
+            1320
+          ],
+          [
+            "fier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1205,
+            1320
+          ],
+          [
+            "ier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1206,
+            1320
+          ],
+          [
+            "er, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1207,
+            1320
+          ],
+          [
+            "r, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1208,
+            1320
+          ],
+          [
+            ", and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1209,
+            1320
+          ],
+          [
+            "and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1210,
+            1320
+          ],
+          [
+            "and that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1211,
+            1320
+          ],
+          [
+            "nd that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1212,
+            1320
+          ],
+          [
+            "d that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1213,
+            1320
+          ],
+          [
+            "that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1214,
+            1320
+          ],
+          [
+            "that using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1215,
+            1320
+          ],
+          [
+            "hat using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1216,
+            1320
+          ],
+          [
+            "at using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1217,
+            1320
+          ],
+          [
+            "t using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1218,
+            1320
+          ],
+          [
+            "using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1219,
+            1320
+          ],
+          [
+            "using a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1220,
+            1320
+          ],
+          [
+            "sing a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1221,
+            1320
+          ],
+          [
+            "ing a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1222,
+            1320
+          ],
+          [
+            "ng a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1223,
+            1320
+          ],
+          [
+            "g a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1224,
+            1320
+          ],
+          [
+            "a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1225,
+            1320
+          ],
+          [
+            "a multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1226,
+            1320
+          ],
+          [
+            "multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1227,
+            1320
+          ],
+          [
+            "multilayered network with non-linear activation functions allows approximations of arbitrary",
+            1228,
+            1320
+          ],
+          [
+            "ultilayered network with non-linear activation functions allows approximations of arbitrary",
+            1229,
+            1320
+          ],
+          [
+            "ltilayered network with non-linear activation functions allows approximations of arbitrary",
+            1230,
+            1320
+          ],
+          [
+            "tilayered network with non-linear activation functions allows approximations of arbitrary",
+            1231,
+            1320
+          ],
+          [
+            "ilayered network with non-linear activation functions allows approximations of arbitrary",
+            1232,
+            1320
+          ],
+          [
+            "layered network with non-linear activation functions allows approximations of arbitrary",
+            1233,
+            1320
+          ],
+          [
+            "ayered network with non-linear activation functions allows approximations of arbitrary",
+            1234,
+            1320
+          ],
+          [
+            "yered network with non-linear activation functions allows approximations of arbitrary",
+            1235,
+            1320
+          ],
+          [
+            "ered network with non-linear activation functions allows approximations of arbitrary",
+            1236,
+            1320
+          ],
+          [
+            "red network with non-linear activation functions allows approximations of arbitrary",
+            1237,
+            1320
+          ],
+          [
+            "ed network with non-linear activation functions allows approximations of arbitrary",
+            1238,
+            1320
+          ],
+          [
+            "d network with non-linear activation functions allows approximations of arbitrary",
+            1239,
+            1320
+          ],
+          [
+            "network with non-linear activation functions allows approximations of arbitrary",
+            1240,
+            1320
+          ],
+          [
+            "network with non-linear activation functions allows approximations of arbitrary",
+            1241,
+            1320
+          ],
+          [
+            "etwork with non-linear activation functions allows approximations of arbitrary",
+            1242,
+            1320
+          ],
+          [
+            "twork with non-linear activation functions allows approximations of arbitrary",
+            1243,
+            1320
+          ],
+          [
+            "work with non-linear activation functions allows approximations of arbitrary",
+            1244,
+            1320
+          ],
+          [
+            "ork with non-linear activation functions allows approximations of arbitrary",
+            1245,
+            1320
+          ],
+          [
+            "rk with non-linear activation functions allows approximations of arbitrary",
+            1246,
+            1320
+          ],
+          [
+            "k with non-linear activation functions allows approximations of arbitrary",
+            1247,
+            1320
+          ],
+          [
+            "with non-linear activation functions allows approximations of arbitrary",
+            1248,
+            1320
+          ],
+          [
+            "with non-linear activation functions allows approximations of arbitrary",
+            1249,
+            1320
+          ],
+          [
+            "ith non-linear activation functions allows approximations of arbitrary",
+            1250,
+            1320
+          ],
+          [
+            "th non-linear activation functions allows approximations of arbitrary",
+            1251,
+            1320
+          ],
+          [
+            "h non-linear activation functions allows approximations of arbitrary",
+            1252,
+            1320
+          ],
+          [
+            "non-linear activation functions allows approximations of arbitrary",
+            1253,
+            1320
+          ],
+          [
+            "non-linear activation functions allows approximations of arbitrary",
+            1254,
+            1320
+          ],
+          [
+            "on-linear activation functions allows approximations of arbitrary",
+            1255,
+            1320
+          ],
+          [
+            "n-linear activation functions allows approximations of arbitrary",
+            1256,
+            1320
+          ],
+          [
+            "-linear activation functions allows approximations of arbitrary",
+            1257,
+            1320
+          ],
+          [
+            "linear activation functions allows approximations of arbitrary",
+            1258,
+            1320
+          ],
+          [
+            "inear activation functions allows approximations of arbitrary",
+            1259,
+            1320
+          ],
+          [
+            "near activation functions allows approximations of arbitrary",
+            1260,
+            1320
+          ],
+          [
+            "ear activation functions allows approximations of arbitrary",
+            1261,
+            1320
+          ],
+          [
+            "ar activation functions allows approximations of arbitrary",
+            1262,
+            1320
+          ],
+          [
+            "r activation functions allows approximations of arbitrary",
+            1263,
+            1320
+          ],
+          [
+            "activation functions allows approximations of arbitrary",
+            1264,
+            1320
+          ],
+          [
+            "activation functions allows approximations of arbitrary",
+            1265,
+            1320
+          ],
+          [
+            "ctivation functions allows approximations of arbitrary",
+            1266,
+            1320
+          ],
+          [
+            "tivation functions allows approximations of arbitrary",
+            1267,
+            1320
+          ],
+          [
+            "ivation functions allows approximations of arbitrary",
+            1268,
+            1320
+          ],
+          [
+            "vation functions allows approximations of arbitrary",
+            1269,
+            1320
+          ],
+          [
+            "ation functions allows approximations of arbitrary",
+            1270,
+            1320
+          ],
+          [
+            "tion functions allows approximations of arbitrary",
+            1271,
+            1320
+          ],
+          [
+            "ion functions allows approximations of arbitrary",
+            1272,
+            1320
+          ],
+          [
+            "on functions allows approximations of arbitrary",
+            1273,
+            1320
+          ],
+          [
+            "n functions allows approximations of arbitrary",
+            1274,
+            1320
+          ],
+          [
+            "functions allows approximations of arbitrary",
+            1275,
+            1320
+          ],
+          [
+            "functions allows approximations of arbitrary",
+            1276,
+            1320
+          ],
+          [
+            "unctions allows approximations of arbitrary",
+            1277,
+            1320
+          ],
+          [
+            "nctions allows approximations of arbitrary",
+            1278,
+            1320
+          ],
+          [
+            "ctions allows approximations of arbitrary",
+            1279,
+            1320
+          ],
+          [
+            "tions allows approximations of arbitrary",
+            1280,
+            1320
+          ],
+          [
+            "ions allows approximations of arbitrary",
+            1281,
+            1320
+          ],
+          [
+            "ons allows approximations of arbitrary",
+            1282,
+            1320
+          ],
+          [
+            "ns allows approximations of arbitrary",
+            1283,
+            1320
+          ],
+          [
+            "s allows approximations of arbitrary",
+            1284,
+            1320
+          ],
+          [
+            "allows approximations of arbitrary",
+            1285,
+            1320
+          ],
+          [
+            "allows approximations of arbitrary",
+            1286,
+            1320
+          ],
+          [
+            "llows approximations of arbitrary",
+            1287,
+            1320
+          ],
+          [
+            "lows approximations of arbitrary",
+            1288,
+            1320
+          ],
+          [
+            "ows approximations of arbitrary",
+            1289,
+            1320
+          ],
+          [
+            "ws approximations of arbitrary",
+            1290,
+            1320
+          ],
+          [
+            "s approximations of arbitrary",
+            1291,
+            1320
+          ],
+          [
+            "approximations of arbitrary",
+            1292,
+            1320
+          ],
+          [
+            "approximations of arbitrary",
+            1293,
+            1320
+          ],
+          [
+            "pproximations of arbitrary",
+            1294,
+            1320
+          ],
+          [
+            "proximations of arbitrary",
+            1295,
+            1320
+          ],
+          [
+            "roximations of arbitrary",
+            1296,
+            1320
+          ],
+          [
+            "oximations of arbitrary",
+            1297,
+            1320
+          ],
+          [
+            "ximations of arbitrary",
+            1298,
+            1320
+          ],
+          [
+            "imations of arbitrary",
+            1299,
+            1320
+          ],
+          [
+            "mations of arbitrary",
+            1300,
+            1320
+          ],
+          [
+            "ations of arbitrary",
+            1301,
+            1320
+          ],
+          [
+            "tions of arbitrary",
+            1302,
+            1320
+          ],
+          [
+            "ions of arbitrary",
+            1303,
+            1320
+          ],
+          [
+            "ons of arbitrary",
+            1304,
+            1320
+          ],
+          [
+            "ns of arbitrary",
+            1305,
+            1320
+          ],
+          [
+            "s of arbitrary",
+            1306,
+            1320
+          ],
+          [
+            "of arbitrary",
+            1307,
+            1320
+          ],
+          [
+            "of arbitrary",
+            1308,
+            1320
+          ],
+          [
+            "f arbitrary",
+            1309,
+            1320
+          ],
+          [
+            "arbitrary",
+            1310,
+            1320
+          ],
+          [
+            "arbitrary",
+            1311,
+            1320
+          ],
+          [
+            "rbitrary",
+            1312,
+            1320
+          ],
+          [
+            "bitrary",
+            1313,
+            1320
+          ],
+          [
+            "itrary",
+            1314,
+            1320
+          ],
+          [
+            "trary",
+            1315,
+            1320
+          ],
+          [
+            "rary",
+            1316,
+            1320
+          ],
+          [
+            "ary",
+            1317,
+            1320
+          ],
+          [
+            "ry",
+            1318,
+            1320
+          ],
+          [
+            "y",
+            1319,
+            1320
+          ],
+          [
+            "functions.",
+            1320,
+            1331
+          ],
+          [
+            "functions.",
+            1321,
+            1331
+          ],
+          [
+            "unctions.",
+            1322,
+            1331
+          ],
+          [
+            "nctions.",
+            1323,
+            1331
+          ],
+          [
+            "ctions.",
+            1324,
+            1331
+          ],
+          [
+            "tions.",
+            1325,
+            1331
+          ],
+          [
+            "ions.",
+            1326,
+            1331
+          ],
+          [
+            "ons.",
+            1327,
+            1331
+          ],
+          [
+            "ns.",
+            1328,
+            1331
+          ],
+          [
+            "s.",
+            1329,
+            1331
+          ],
+          [
+            ".",
+            1330,
+            1331
+          ]
+        ]
+      }
+    ]
+  },
+  "semantic": {
+    "avg_num_chunks": 2.6666666666666665,
+    "avg_chunk_length": 599.7777777777778,
+    "avg_latency": 9.655952453613281e-05,
+    "individual_results": [
+      {
+        "strategy": "semantic",
+        "num_chunks": 3,
+        "avg_chunk_length": 582.0,
+        "avg_overlap": 171.0,
+        "latency": 0.00025200843811035156,
+        "chunks": [
+          [
+            "Artificial intelligence (AI) is intelligence demonstrated by machines, in contrast to the natural intelligence displayed by humans and animals. Leading AI textbooks define the field as the study of \"intelligent agents\": any device that perceives its environment and takes actions that maximize its chance of successfully achieving its goals. Colloquially, the term \"artificial intelligence\" is often used to describe machines that mimic \"cognitive\" functions that humans associate with the human mind, such as \"learning\" and \"problem solving\". As machines become increasingly capable, tasks considered to require \"intelligence\" are often removed from the definition of AI, a phenomenon known as the AI effect.",
+            0,
+            709
+          ],
+          [
+            "As machines become increasingly capable, tasks considered to require \"intelligence\" are often removed from the definition of AI, a phenomenon known as the AI effect. A quip in Tesler's Theorem says \"AI is whatever hasn't been done yet.\" For instance, optical character recognition is frequently excluded from things considered to be AI, having become a routine technology. Modern machine learning techniques are a core part of AI. Machine learning algorithms build a model based on sample data, known as \"training data\", in order to make predictions or decisions without being explicitly programmed to do so.",
+            544,
+            1152
+          ],
+          [
+            "Machine learning algorithms build a model based on sample data, known as \"training data\", in order to make predictions or decisions without being explicitly programmed to do so. Machine learning algorithms are used in a wide variety of applications, such as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed tasks..",
+            975,
+            250
+          ]
+        ]
+      },
+      {
+        "strategy": "semantic",
+        "num_chunks": 2,
+        "avg_chunk_length": 586.0,
+        "avg_overlap": 117.0,
+        "latency": 1.6689300537109375e-05,
+        "chunks": [
+          [
+            "Machine learning (ML) is the study of computer algorithms that improve automatically through experience. It is seen as a subset of artificial intelligence. Machine learning algorithms build a mathematical model based on sample data, known as \"training data\", in order to make predictions or decisions without being explicitly programmed to do so. Machine learning algorithms are used in a wide variety of applications, such as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed tasks. Machine learning is closely related to computational statistics, which focuses on making predictions using computers.",
+            0,
+            715
+          ],
+          [
+            "Machine learning is closely related to computational statistics, which focuses on making predictions using computers. The study of mathematical optimization delivers methods, theory and application domains to the field of machine learning. Data mining is a related field of study, focusing on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive analytics..",
+            598,
+            106
+          ]
+        ]
+      },
+      {
+        "strategy": "semantic",
+        "num_chunks": 3,
+        "avg_chunk_length": 631.3333333333334,
+        "avg_overlap": 281.0,
+        "latency": 2.09808349609375e-05,
+        "chunks": [
+          [
+            "Deep learning is part of a broader family of machine learning methods based on artificial neural networks with representation learning. Learning can be supervised, semi-supervised or unsupervised. Deep learning architectures such as deep neural networks, deep belief networks, recurrent neural networks and convolutional neural networks have been applied to fields including computer vision, speech recognition, natural language processing, audio recognition, social network filtering, machine translation, bioinformatics, drug design, medical image analysis, material inspection and board game programs, where they have produced results comparable to and in some cases surpassing human expert performance.",
+            0,
+            706
+          ],
+          [
+            "Deep learning architectures such as deep neural networks, deep belief networks, recurrent neural networks and convolutional neural networks have been applied to fields including computer vision, speech recognition, natural language processing, audio recognition, social network filtering, machine translation, bioinformatics, drug design, medical image analysis, material inspection and board game programs, where they have produced results comparable to and in some cases surpassing human expert performance. Artificial neural networks (ANNs) were inspired by information processing and distributed communication nodes in biological systems. ANNs have various differences from biological brains.",
+            197,
+            893
+          ],
+          [
+            "ANNs have various differences from biological brains. Specifically, neural networks tend to be static and symbolic, while the biological brain of most living organisms is dynamic (plastic) and analogue. The adjective \"deep\" in deep learning refers to the use of multiple layers in the network. Early work showed that a linear perceptron cannot be a universal classifier, and that using a multilayered network with non-linear activation functions allows approximations of arbitrary functions..",
+            840,
+            197
+          ]
+        ]
+      }
+    ]
+  }
+}

@@ -31,9 +31,11 @@ pydantic
 pydantic-settings
 python-dotenv
 
-# Development and testing
+# Evaluation and Testing
 pytest
 pytest-asyncio
+deepeval
+datasets
 httpx
 mypy
 ruff
