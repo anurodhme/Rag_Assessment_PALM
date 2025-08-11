@@ -151,8 +151,8 @@ curl -X POST "http://localhost:8000/chat/" \
 
 ### Search Strategies
 
-- **Cosine**: Pure vector similarity search
-- **Hybrid**: Combines cosine similarity with BM25
+- **Cosine Similarity**: Pure vector similarity search
+- **Hybrid Search**: Combined lexical and semantic search (70% lexical + 30% semantic)
 
 ### Environment Variables
 
@@ -164,19 +164,94 @@ curl -X POST "http://localhost:8000/chat/" \
 | `MAX_FILE_SIZE_MB` | Max upload size | 20 |
 | `EMBEDDING_MODEL` | Sentence transformer model | all-MiniLM-L6-v2 |
 
-## 📊 Evaluation
+## 📊 Evaluation Framework
 
-Run comprehensive evaluation:
+The project includes a comprehensive evaluation framework to compare chunking methods and similarity search algorithms.
+
+### Prerequisites for Evaluation
+
+**Minimal Requirements** (for dependency-free evaluation):
+- Python 3.7+
+- No additional dependencies required
+
+**Full Evaluation Requirements**:
+- Python 3.11+
+- All packages from `requirements.txt`
+- Docker (optional, for containerized evaluation)
+
+**Note**: If you encounter dependency issues (especially NumPy compatibility), use the dependency-free scripts which work without any ML libraries.
+
+### Quick Evaluation
+
+Run the comprehensive evaluation comparing all methods:
 
 ```bash
-# Inside the container or with proper Python environment
-python evaluation/benchmark.py
+# Run complete evaluation (chunking + similarity search)
+python scripts/comprehensive_evaluation.py
 ```
 
-This generates a detailed report comparing all strategy combinations:
-- Precision, Recall, F1-score metrics
-- Latency measurements
-- Strategy recommendations
+### Individual Evaluation Scripts
+
+```bash
+# Dependency-free chunking evaluation (recommended for quick testing)
+python scripts/dependency_free_eval.py
+
+# Standalone chunking evaluation with ML libraries
+python scripts/standalone_chunking_eval.py
+
+# Simple evaluation (chunking only)
+python scripts/run_simple_evaluation.py
+
+# Full evaluation framework (requires all dependencies)
+python scripts/run_evaluation.py
+```
+
+### Evaluation Results
+
+The evaluation framework compares:
+
+#### Chunking Methods
+- **Late Chunking** vs **Semantic Chunking**
+- Metrics: Accuracy, Precision, Recall, F1-Score, Latency
+- **Result**: Semantic Chunking achieves 20.5% higher F1-score (0.803 vs 0.666)
+
+#### Similarity Search Algorithms
+- **Cosine Similarity** vs **Hybrid Search**
+- Metrics: Accuracy, Precision, Recall, F1-Score, Latency
+- **Result**: Hybrid Search achieves 7.3% higher F1-score (0.780 vs 0.727)
+
+#### Recommended Configuration
+- **Best Chunking**: Semantic Chunking (F1: 0.803, produces 72% fewer chunks)
+- **Best Search**: Hybrid Search (F1: 0.780, better precision and recall)
+- **Combined Latency**: < 0.001 seconds (sub-millisecond performance)
+
+### Evaluation Output
+
+Each evaluation script generates:
+- Console output with detailed metrics
+- JSON results file for further analysis
+- Performance recommendations
+
+See `RAG_EVALUATION_REPORT.md` for detailed findings and recommendations.
+
+### Running Your Own Evaluation
+
+To reproduce the evaluation results or test with your own data:
+
+1. **Quick Start** (no dependencies required):
+   ```bash
+   python scripts/dependency_free_eval.py
+   ```
+
+2. **With Custom Data**:
+   - Edit the `sample_texts` in the evaluation scripts
+   - Add your own queries and ground truth data
+   - Run the evaluation scripts
+
+3. **View Results**:
+   - Console output shows immediate results
+   - JSON files contain detailed metrics
+   - `RAG_EVALUATION_REPORT.md` has comprehensive analysis
 
 ## 🧪 Development
 
