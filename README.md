@@ -375,19 +375,6 @@ docker-compose exec redis redis-cli
 - Enable Redis persistence for session recovery
 - Configure Milvus index parameters for your data size
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests
-5. Submit a pull request
-
-## 📞 Support
 
 For questions or issues:
 - Check the [documentation](http://localhost:8000/docs)
@@ -396,4 +383,4 @@ For questions or issues:
 
 ---
 
-Built with ❤️ using FastAPI, Milvus, and Google ADK
+
